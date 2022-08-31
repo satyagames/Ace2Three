@@ -111,6 +111,7 @@ Logout
 
 Types of Games:
 ==============
+
 1. Points Rummy
 2. Best of 2
 3. Best of 2 Grand
@@ -123,13 +124,51 @@ Gun shot
 
 Top:
 ===
+
 Total number of users
 Current Time
 Current cash/chips
 Notifications
 Bottom:
 ======
+
 Games
 Tourney
 Settings
 RIO Tourney
+
+
+
+
+
+
+**Multiplayer server need to Handle** :
+
+- Custom Login
+- Room Creation 
+- Room Joining
+- Match Making logics
+- Custom game events
+- Lobby
+- User disconnection & reconnection 
+- Room summary
+- Server Crash
+- Game Logics (Extensions)
+- AI bots
+- Bots behavior
+- Game session management
+- Fetching from database
+- Storing to database
+
+**Game side tasks :**
+
+- UI integration
+- Game Logic - (card shuffle, distrubution, sorting, discard, drop, show validation, show result)
+- Animations
+- Player creation based on response from backend.
+- Table creation.
+- Player positions settings.
+- Pushing and fetching game-end logic from SFS
+- Login validation 
+- Registation validation
+
