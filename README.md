@@ -2,7 +2,7 @@
 
 
 
-It will take 2 month of time to develop the offline version of game. It will includes Point Rummy, Pool Rummy(101 and 201), BO2 and BO3.
+It will includes Point Rummy, Pool Rummy(101 and 201), BO2 and BO3.
 - Players from 2 to 6 for Points and Pool Rummy and Only 2 Players for BO2 and BO3.
 - Game will be landscape (for both playing and home screen.)
 
